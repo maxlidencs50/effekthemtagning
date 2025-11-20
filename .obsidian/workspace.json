@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/main_report.md",
+                "file": "project/docs/CHANGELOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main_report"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 235.5
   },
   "right": {
     "id": "ac00032a9eb950fc",
@@ -183,36 +183,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "7386107c63e81fcf",
+  "active": "e975bb3603a19100",
   "lastOpenFiles": [
-    "sources/data/Affärskrav och måluppfyllelse.csv",
+    "work/main_report.md",
+    "sources/data/Måluppfyllelse.csv",
+    "sources/data/Affärskrav.csv",
+    "Untitled.canvas",
+    "sources/interviews/jonas_hallgren_(1).md",
+    "work/report_(current).md",
+    "history/versions/main_report_v0.6.0_original.md",
+    "sources/knowledge/cordial_external_perspective.md",
+    "sources/knowledge/knowledge_base.md",
+    "sources/knowledge/quote_suggestions.md",
+    "sources/knowledge/writing_style_guide.md",
+    "sources/knowledge/memory.md",
+    "project/docs/README.md",
     "README.md",
     "project/docs/CHANGELOG.md",
-    "project/docs/README.md",
+    "sources/data/Affärskrav och måluppfyllelse.csv",
     "project/scripts/check_consistency.sh",
-    "history/versions/main_report_v0.6.0_original.md",
     "src/main_report.md",
-    "work/main_report.md",
-    "sources/knowledge/quote_suggestions.md",
-    "sources/knowledge/memory.md",
     "sources/interviews/maja_carlzon_(1).md",
     "sources/interviews/lars_carlsson_(2).md",
     "sources/interviews/lars_carlsson_(1).md",
-    "sources/interviews/jonas_hallgren_(1).md",
     "sources/interviews/asa_sjolander_(2).md",
     "sources/interviews/annelie_helsing_(1).md",
-    "sources/knowledge/cordial_external_perspective.md",
-    "sources/knowledge/writing_style_guide.md",
-    "sources/knowledge/knowledge_base.md",
     "project/scripts",
     "project/docs",
     "project/config",
     "project",
     "history/versions",
     "history",
-    "output/reports",
-    "output/presentations",
-    "output",
     "Pasted image 20251119152420.png",
     "CHANGELOG.md",
     "report_versions/main_report_original.md",

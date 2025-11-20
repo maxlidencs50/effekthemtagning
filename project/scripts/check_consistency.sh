@@ -47,7 +47,8 @@ CRITICAL_FILES=(
     "work/main_report.md"
     "sources/knowledge/knowledge_base.md"
     "sources/knowledge/writing_style_guide.md"
-    "sources/data/Affärskrav och måluppfyllelse.csv"
+    "sources/data/Affärskrav.csv"
+    "sources/data/Måluppfyllelse.csv"
 )
 
 for file in "${CRITICAL_FILES[@]}"; do

@@ -11,7 +11,7 @@
 
 ---
 
-**Innehållsförteckning**
+# Innehållsförteckning
 
 1. Exekutiva sammanfattning
 2. Bakgrund och syfte

@@ -1,3 +1,4 @@
+*Godkänd av Marcus som bra innehåll*
 ## Målområde 1: Den självklara utmanaren inom traditionell tjänstepension
 
 ### Mål

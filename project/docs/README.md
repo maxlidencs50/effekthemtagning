@@ -45,7 +45,8 @@ effekthemtagning/
 │   │   └── maja_carlzon_(1).md
 │   │
 │   ├── data/                # CSV source data
-│   │   └── Affärskrav och måluppfyllelse.csv
+│   │   ├── Affärskrav.csv
+│   │   └── Måluppfyllelse.csv
 │   │
 │   └── knowledge/           # Guides & knowledge base
 │       ├── knowledge_base.md

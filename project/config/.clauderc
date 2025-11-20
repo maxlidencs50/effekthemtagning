@@ -57,7 +57,8 @@ Du bistår Marcus Melkersson och Max Lidén (Cordial) med att ta fram en effekth
 - `sources/interviews/maja_carlzon_(1).md` - HR & Affärsutvecklingschef
 
 ### Strukturerad data
-- `sources/data/Affärskrav och måluppfyllelse.csv` - Komplett SAK-data: 41 strategiska affärskrav med bedömningar (utgångsläge, nuläge, målläge) och workshopkommentarer
+- `sources/data/Affärskrav.csv` - 41 strategiska affärskrav (SAK) med bedömningar per krav (utgångsläge, nuläge, målläge) och detaljerade kommentarer från workshop
+- `sources/data/Måluppfyllelse.csv` - 18 delmål grupperade under 6 målområden (Marknad, Kund & Kanal, Erbjudande, Processer, Organisation, Lönsamhet) med uppfyllnadsgrad, motivering och vad som återstår
 
 ## Arbetsregler
 
