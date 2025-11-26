@@ -1,10 +1,8 @@
-**Effekthemtagningsrapport IT-transformation**
+**Effekthemtagningsrapport - Lumera transformationen**
 
 **SH Pension | Individual** **→** **Lumera 2023–2026**
 
-**För:** Ledningsgrupp & Styrelse
-
-**Författare:** SH Pensions Ledningsgrupp
+**Avsändare:** SH Pensions Ledningsgrupp
 **Med assistans från:** Cordial
 
 **Datum:** December 2025
@@ -33,13 +31,19 @@
 
 Vår transformation handlade därför om två saker: att byta ut **hjärtat och lungorna** – det gamla systemet Individual – mot ett modernt, branschstandardiserat plattformssystem (Lumera). Och att bygga nya **armar och ben** – digitala tjänster, smidiga processer och partnerskap med förmedlare.
 
-**Vår rapports syfte** är att visa vad transformationen faktiskt gett – i effekt, förmåga och kultur. Vi dokumenterar förflyttningen från 2022 till idag, belyser både framgångar och utmaningar, och ger ledning och styrelse beslutsunderlag för fortsatt arbete mot målen 2026.
+**Rapportens syfte** är att visa vad transformationen faktiskt gett – i effekt, förmåga och kultur. Vi dokumenterar förflyttningen från 2022 till idag, belyser både framgångar och utmaningar, och ger oss i ledningsgruppen och styrelse beslutsunderlag för fortsatt arbete mot målen 2026.
 
 ---
 
 # 3. STARTLÄGE 2022
 
 Hösten 2021 initierade vi en förstudie för att kartlägga utgångsläget inför en nödvändig transformation. Resultatet visade en ohållbar situation där föråldrade IT-system, bristande data, manuella processer och höga operationella risker blockerade tillväxt och hotade vår verksamhets överlevnad.
+
+Men det började inte med krisen – det började med strategin:
+
+> "Det började med att vi satt en ny strategi. Vi ombildades till tjänstepensionsförening... Och sen när vi började förstå vårt företag så såg vi att vi har en massa risker."
+>
+> — Annelie Helsing
 
 Förstudien identifierade **fyra kritiska dimensioner** som utgjorde grunden för vår transformation som skulle starta 2023:
 
@@ -48,13 +52,21 @@ Förstudien identifierade **fyra kritiska dimensioner** som utgjorde grunden fö
 3. **Processer** – Manuella, personberoende, risker för fel
 4. **Risk** – Föråldrade system, individberoende, incidenter
 
-> "De fyra dimensionerna visade tydligt att 'göra ingenting' innebar **verksamhetsdöd**. Vår transformation var inte ett val – den var en nödvändighet."
+Slutsatsen var glasklar:
+
+> "Transformationen var do or die."
+>
+> — Annelie Helsing
 
 ---
 
 ## Dimension 1: IT-system och tillväxt
 
-Individual-systemet hade tjänat oss väl sedan 1990-talet, men var 2022 tekniskt föråldrat och operationellt riskabelt. Systemet byggdes ursprungligen på föråldrad 90-talsteknik (AS-400) och migrerades senare till VB.NET- båda tekniker som 2022 var obsoleta och nästan omöjliga att rekrytera kompetens för.
+Individual-systemet hade tjänat oss väl sedan 1990-talet, men var 2022 tekniskt föråldrat och operationellt riskabelt.
+
+> "Individual-systemet var ursprungligen AS/400, senare portat till .NET/VB.NET. Det hade tjänat oss väl men blivit en soppa, med mycket historik och speciallösningar. Personberoendet var stort – flera som kunde systemet närmade sig pension."
+>
+> — Jonas Hällgren, IT-chef
 
 Individual kunde därför inte hantera förmedlarsamarbeten eller digital självbetjäning. Vi behövde växa från **280 mkr till 1 miljard** i årliga premier – Individual var inte skalbart för denna resa.
 
@@ -68,6 +80,14 @@ Individual kunde därför inte hantera förmedlarsamarbeten eller digital själv
 > "Rådgivaren hade skrivit fel personnummer. Vid första adressuppdateringen blir det fel – systemet byter ut alla uppgifter. Så en helt annan person får försäkringshandlingen."
 >
 > — Jonas Hällgren, IT-chef
+
+### Den ekonomiska omöjligheten
+
+Att fortsätta bygga på Individual var inte bara tekniskt ohållbart – det var ekonomiskt omöjligt utan en rejäl investering:
+
+> "4,5 miljoner hade vi som utvecklingsbudget varje år. Och hur ska vi nå tillväxt, hur ska vi göra någonting, om vi inte gör något stort? Det är tillväxt eller avveckla. Det finns inget mittemellan. Och det är det idag också."
+>
+> — Lars Carlsson, CFO
 
 ---
 
@@ -95,7 +115,9 @@ Individual 2022 krävde omfattande manuell hantering. Även rutinprocesser inneh
 
 - **Rekrytering:** En nyrekryterad utvecklare slutade efter tre månader: "Han var jättetrevlig och tyckte det var en intressant utmaning, men insåg: nej, det är inte [VB.NET](http://VB.NET)… det är inte det jag vill vidareutvecklas inom."
 
-> "Handläggare gjorde fel och man stängde av funktioner i systemet. Man begränsade samtidigt möjligheten för handläggaren att göra rätt."
+> "Vi hade ingenting. Vi hade ingen process för paketering. Om det fanns ett behov så byggde vi något ovanpå Individual för att möta det. Och det kräver kanske tre månaders arbete."
+>
+> — Lars Carlsson
 
 ---
 
@@ -110,15 +132,17 @@ Individual 2022 krävde omfattande manuell hantering. Även rutinprocesser inneh
 - **Compliance-risker:** Framåtblickande krav (särskilt gallring) svåra att uppfylla
 - **Systeminstabilitet:** Hög incidentnivå, växande lista över trasiga försäkringar
 
-> "Vid den tidpunkten identifierade vi att de som hade [VB.NET] kunskap började närma sig pensionen."
+> "De som hade VB.NET-kunskap började närma sig pensionen."
+>
+> — Jonas Hällgren
 
 ---
 
-## SAK-baserad kvantifiering av utgångsläget
+## SAK-baserad kvantifiering av startläge 2022
 
 De **Strategiska Affärskraven (SAK)** är definierade krav som översätter vår strategi till konkret handling. De visar vad vår verksamhet behöver kunna för att fungerar som tänkt och används för att följa utvecklingen genom vår transformation.
 
-_Utgångsläget kvantifierades genom **51 strategiska affärskrav (SAK)** som bedömdes på en skala 1–5 av vår ledningsgrupp:_
+_Utgångsläget kvantifierades genom **51 strategiska affärskrav (SAK)** som bedömdes på en skala 1–5 av ledningsgruppen:_
 
 | **Betyg** | **Antal SAK** | **Andel** | **Betydelse**   |
 | --------- | ------------- | --------- | --------------- |
@@ -143,7 +167,7 @@ SAK-bedömningen **bekräftar den svaga utgångsposition** som redan framkom i f
 
 ---
 
-## Utgångsläge sammanfattning: En ohållbar situation
+## Startläge sammanfattning: En ohållbar situation
 
 Hösten 2022 stod vi inför ett existentiellt vägval. Individual-systemets tekniska skuld, personberoende och operationella risker hade nått en punkt där "göra ingenting" innebar verksamhetsdöd. Samtidigt krävde ombildningen till öppen tjänstepensionsförening och ambitionerna om tillväxt (280→1000 mkr) moderna system och processer.
 
@@ -158,6 +182,10 @@ Tre år senare kan nuläget visa hur långt vi kommit i att bygga bort de risker
 Hösten 2022 var situationen akut. Individual-systemet höll på att kollapsa, kompetensen försvann med pensionerande konsulter, och varje manuell process var en riskfaktor. Vi stod inför ett existentiellt vägval: transformera eller dö.
 
 Tre år senare, hösten 2025 har bilden för oss förändrats fundamentalt. **Lumera är implementerat. Vi har vuxit från 30 till 50+ personer. Premierna har ökat med 136 procent.** Men den fulla effekten väntar fortfarande – beroende på att Individual slutligen kan avvecklas under 2026.
+
+> "Det är mycket bättre. Mycket, mycket bättre om man säger utifrån att jag släcker inte bränder hela tiden. Det var de två, tre första åren så var det varje dag."
+>
+> — Annelie Helsing
 
 I oktober 2025 genomförde vår ledningsgrupp en måluppfyllelse workshop där vi bedömde framstegen över **sex målområden** baserat på 18 delmål. Detta är inte en konsultrapport – det är vår ledningsgrupps egen, ärliga bedömning av var vi står.
 
@@ -207,18 +235,6 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 - Vi är riggade – men marknaden vet det inte
 - Branschjämförelser rankar bara de 10 största (målet delvis orealistiskt)
 
-**"Fake it until you make it"-metodik:**
-
-> "Börja smaka på våra uttryckssätt. Börja formulera dem, börja uttrycka dem, börja använda dem."
->
-> — Åsa Sjölander
-
-**"Våga drömma stort"-uttrycket pausades:**
-
-> "Det var i samband med att det blev börskrasch. Då tyckte vi att nu handlar det mest om att överleva för företagarna. Inte om att kunna drömma stort. Så just nu är vi lite i limbo med det där."
->
-> — Åsa Sjölander
-
 ### Vad som återstår
 
 - **Intensifiera PR-arbete** med kända branschpersoner
@@ -266,7 +282,7 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 
 ### Men affärerna tar längre tid:
 
-> "I någon mån så har vi skapat förutsättningarna, ja, och vi har skapat plattformen och distributionskanalen men det är ju någon förutsättning som möjligen fattas liksom som gör att de inte klickar igång."
+> "Vi har skapat förutsättningarna, vi har skapat plattformen och distributionskanalen. Men det är något som fattas som gör att de inte riktigt klickar igång."
 >
 > — Åsa Sjölander
 
@@ -278,21 +294,9 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 2. **Intern kapacitet:** Kritisk massa i distributionskraft saknas, säljorganisation inte tillräckligt robust
 3. **Aktivering tar tid:** Förmedlarna har haft interna utmaningar, relationerna finns men inte aktiverade i affärsflöden
 
-**ICA och Svensk Handel – outnyttjad potential:**
-
-> "Ja, men de här är jättefina litskällor. Både svensk handel och ICA."
+> "Vi kan ta och omborda nya förmedlare. Bring it on, vi kan ta vem som helst. Vi har IT-infrastrukturen på plats. Dialogerna är positiva, men affärerna har inte trillat in i tillräcklig omfattning ännu."
 >
-> — Åsa Sjölander
-
-> "I relation till ICA så ska vi bli skickligare på att vi ska vara den självklara partnern när det gäller pensionsaffärer. Och det är vi inte idag? Ja, men jag tycker att det kan vara ännu tydligare."
->
-> — Åsa Sjölander
-
-**Service otestad i skala**
-
-> "Vi har liksom testat vår service i för liten utsträckning. Så vi behöver ha mer affärer in för att kunna verkligen testa något annat."
->
-> — Åsa Sjölander
+> — Annelie Helsing
 
 ### Vad som återstår
 
@@ -329,7 +333,7 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 
 > "Vi har marknadens bästa trad. Medvetna strategiska val positionerar produkten starkt. [Men vad som återstår:] Förbättra story, positionering och kommunikation. Marknaden måste förstå att detta är den bästa produkten."
 >
-> — Workshop CSV
+> — Workshop
 
 ### Paketering – från bespoke till strukturerad (4,9 av 5)
 
@@ -339,7 +343,7 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 - Professionell paketerings förmåga etablerad
 - Från fri flexibilitet till strukturerad paketering med kontrollerade risker
 
-### Risk professionaliserad, Fond för smal
+### Risk professionaliserad, Fond utvecklas
 
 **Risk är "state of the art":**
 
@@ -347,11 +351,11 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 - Bliwa hänger med på tillväxten
 - Skalbar förvaltning
 
-**Fond medvetet nedprioriterat:**
+**Fond medvetet nedprioriterat – nu förbättras:**
 
-> "Fond är inte där, Risk är state of the art. Vi har medvetet nedprioriterat fond. 2023 gjorde vi stora förflyttningar. Kunder har nu börjat säga att de vill ha mer. Fonddelarna vi har är kvalitetssäkrade, men sortimentet är inte riktigt där."
+> "Fondutbudet. Där har vi gjort stora förbättringar. Vi breddar med fyra nya fonder nu. Kvalitetssäkrat men bredare – det har saknats."
 >
-> — Workshop CSV
+> — Kenneth Norling, Kapitalförvaltningschef
 
 ### Vad som återstår
 
@@ -386,13 +390,25 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 
 > "Vi är nöjda med vad vi fått – fick till och med mer än beställt (t.ex. handläggargränssnittet)."
 >
-> — Workshop CSV
+> — Workshop
+
+### Integration som strategisk fördel
+
+> "Vi ska äga våra egna integrationer. Vi byggde en lättviktig integrationsplattform... Med hjälp av Mikael och Niklas gick utvecklingen fort – saker som andra lagt år på gjorde vi på veckor."
+>
+> — Jonas Hällgren, IT-chef
 
 ### KRITISK INSIKT: Den stora effekten väntar
 
 > "Integrationsplattform och processkartläggning är på plats. Vi lägger mindre tid på problem och förvaltning – vi har sett tendensen och gjort en förflyttning, men den stora effekten uppstår när vi avvecklar Individual. CFO-office har utvecklats och effektiviserats på flera områden (resurser, kvalitet)."
 >
-> — Workshop CSV
+> — Workshop
+
+**CFO Lars beskriver förändringen:**
+
+> "Det är natt och dag i min grupp. Nu kan vi utveckla våra processer. Vi kan ha åsikter om huruvida vi lever upp till regelverk eller inte och känna att vi är compliant. Innan var det bara 'vi gör så här av någon anledning men vi kan inte riktigt peka på varför'."
+>
+> — Lars Carlsson, CFO
 
 **Dubbla system bromsar:**
 
@@ -413,7 +429,7 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 
 > "Kunden ska kunna köpa utan rådgivning – hela branschen jobbar på detta, vi trodde initialt att det skulle gå snabbare."
 >
-> — Workshop CSV
+> — Workshop
 
 ### Vad som återstår
 
@@ -439,11 +455,11 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 
 ### Högsta betyget i transformationen (4,8 av 5)
 
-**Målstyrning och teamarbete fungerar excellent:**
+**Målstyrning och teamarbete fungerar bra:**
 
 > "Vårt arbetssätt och prioriteringar stödjer målet väl. Det finns ett bra och tydligt budskap. Målstyrning fungerar - återkommande uppföljning mot strategiska mål och milstolpar. Vårt agila arbetssätt stödjer teamarbete med höga betyg på förankring."
 >
-> — Workshop CSV
+> — Workshop
 
 **Flexibel sourcing – full måluppfyllelse (5 av 5):**
 
@@ -455,13 +471,13 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 
 **Problemet är strukturellt:**
 
-> "För att vår bemanningsstrategi. Vår sourcingstrategi. Den har vi haft ganska länge. Och vi kommer sannolikt fortsätta med den. Samtidigt så är det ju också så att de som inte går att använda konsulter som ersätter personal är ju rådgivare. För de måste ha licenser. Vi kan inte ta in rådgivare på konsultbasis. Det går liksom inte. Men vi kan ta in Joakim Bär. Vi kan ta in Jonas Hedman. Vi kan ta in aktuarier. Vi kan ta in IT. Men rådgivare kan vi inte ta in på resursbasis."
+> "Vår sourcingstrategi har fungerat bra. Vi kan ta in konsulter inom IT, aktuarie, juridik. Men rådgivare går inte att ta in på konsultbasis – de måste ha licenser. Rådgivare kan vi inte ta in på resursbasis."
 >
 > — Maja Carlzon
 
 **Ansträngningen har varit enorm:**
 
-> "Under de här tre åren. Vi har pratat med varenda jävla rådgivare. Vi har pratat med alla. I rekrytering. Det är inte så att de inte kommer till oss. För att inte vi är attraktiva. Så är det."
+> "Under de här tre åren har vi pratat med varenda rådgivare. Det är inte så att de inte kommer till oss för att vi inte är attraktiva."
 >
 > — Maja Carlzon
 
@@ -530,13 +546,13 @@ _Inga strategiska affärskrav (SAK) är direkt kopplade till Målområde 6. Lön
 
 > "Ej uppnått. Kräver tillväxt. Strategin är bekräftad – vår inslagna väg håller. Externt stöd Arkwright med utifrån-och-in-perspektiv bekräftar den inslagna vägen. Marknaden finns kvar, det tar bara lite längre tid."
 >
-> — Workshop CSV
+> — Workshop
 
-**Outnyttjad potential:**
+### Tillväxt är allt
 
-> "Vi har inte tömt ut ICA och Svensk Handel – ska fortsätta hämta effekter därifrån. Nästa år gassar vi med massor av samarbetspartners."
+> "Det är därför alla i styrelsen är så fokuserade på tillväxt. Utan tillväxt spelar nästan inget annat någon roll."
 >
-> — Workshop CSV
+> — Kenneth Norling, Kapitalförvaltningschef
 
 ### Vad som krävs för att nå målet
 
@@ -644,7 +660,7 @@ Medan målområdena visar den strategiska nivån, ger de 51 strategiska affärsk
 
 > "Den stora effekten uppstår när vi avvecklar Individual."
 >
-> — Workshop CSV
+> — Workshop
 
 **Övriga prioriteringar:**
 
@@ -659,9 +675,9 @@ Medan målområdena visar den strategiska nivån, ger de 51 strategiska affärsk
 >
 > — Måluppfyllelse workshop
 
-> "Vi kan ta och omborda nya förmedlare. Bring it on, vi kan ta vem som helst. Vi har IT-infrastrukturen som målar sitt huvud på plats. Men dialogerna är positiva, affärerna har inte trillat in i tillräcklig omfattning ännu."
+> "Lyckas vi, då är det champagne – få har klarat en sådan migration på rimlig tid."
 >
-> — Annelie Helsing
+> — Jonas Hällgren, IT-chef
 
 **Vi har byggt grunden för tillväxt. Nu handlar det om att realisera potentialen – med tålamod, uthållighet och fortsatt fokus på det som fungerar.**
 

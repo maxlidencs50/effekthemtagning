@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/docs/CHANGELOG.md",
+                "file": "work/main_report_v6.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "main_report_v6.2"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 281.5
   },
   "right": {
     "id": "ac00032a9eb950fc",
@@ -185,11 +185,25 @@
   },
   "active": "e975bb3603a19100",
   "lastOpenFiles": [
-    "work/main_report.md",
+    "sources/interviews/asa_sjolander_(2).md",
+    "work/main_report_v6.2.md",
+    "history/versions/main_report_v6.1.md",
+    "work/main_report_v6.2.md.tmp.15055.1764144950634",
+    "work/main_report_v6.2.md.tmp.15055.1764144938709",
+    "work/main_report_v6.2.md.tmp.15055.1764144931843",
+    "work/main_report_v6.2.md.tmp.15055.1764144924851",
+    "work/main_report_v6.2.md.tmp.15055.1764144915444",
+    "feedback/cordial/Jörgen och Sofia feedback (26 november).md",
+    "sources/interviews/jonas_hallgren_(1).md",
+    "sources/interviews/kenneth_norling_(1).md",
+    "project/docs/README.md",
+    "CLAUDE.md",
+    "sources/interviews/lars_carlsson_(1).md",
+    "sources/interviews/annelie_helsing_(1).md",
+    "project/docs/CHANGELOG.md",
     "sources/data/Måluppfyllelse.csv",
     "sources/data/Affärskrav.csv",
     "Untitled.canvas",
-    "sources/interviews/jonas_hallgren_(1).md",
     "work/report_(current).md",
     "history/versions/main_report_v0.6.0_original.md",
     "sources/knowledge/cordial_external_perspective.md",
@@ -197,31 +211,16 @@
     "sources/knowledge/quote_suggestions.md",
     "sources/knowledge/writing_style_guide.md",
     "sources/knowledge/memory.md",
-    "project/docs/README.md",
     "README.md",
-    "project/docs/CHANGELOG.md",
     "sources/data/Affärskrav och måluppfyllelse.csv",
     "project/scripts/check_consistency.sh",
     "src/main_report.md",
     "sources/interviews/maja_carlzon_(1).md",
     "sources/interviews/lars_carlsson_(2).md",
-    "sources/interviews/lars_carlsson_(1).md",
-    "sources/interviews/asa_sjolander_(2).md",
-    "sources/interviews/annelie_helsing_(1).md",
     "project/scripts",
-    "project/docs",
-    "project/config",
-    "project",
-    "history/versions",
-    "history",
     "Pasted image 20251119152420.png",
     "CHANGELOG.md",
     "report_versions/main_report_original.md",
-    "docs/guides/writing_style_guide.md",
-    "docs/guides/knowledge_base.md",
-    "docs/reference/quote_suggestions.md",
-    "docs/interviews/lars_carlsson_(2).md",
-    "docs/interviews/maja_carlzon_(1).md",
-    "docs/interviews/lars_carlsson_(1).md"
+    "docs/guides/writing_style_guide.md"
   ]
 }
