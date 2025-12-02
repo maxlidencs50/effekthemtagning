@@ -16,6 +16,95 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [6.5] - 2025-12-02
+
+### Removed
+- **Deleted entire premier growth table** from Målområde 2 (Kund & Kanal)
+  - Table showed 2023-2026 premier breakdown (förmedlare/direktkanal) with projected 660 mkr for 2025
+  - Marcus flagged as "HELT FEL PREMIER UTVECKLING TABELL" - data was from pre-study forecast, not actual results
+- **Removed all premium growth claims throughout report**
+  - Deleted: "+136% (280→660 mkr)" statements
+  - Deleted: "Premier 2023→2025: +136%" section header
+  - Deleted: "Premier +136% (280→660 mkr)" from summary bullets
+  - Deleted: "Förmedlarandel 39%→61%" claims
+
+### Changed
+- **Reformulated Målområde 2 sections** to remove premium data dependencies
+  - "Tillväxten är imponerande" section rewritten without specific premier numbers
+  - "Sammanfattning: Marknad & Kund/Kanal" rewritten to focus on capabilities rather than volume claims
+  - Strategic goal (280→1000 mkr) retained as TARGET, not claimed achievement
+- **work/main_report_v6.5.md** is now current working file (685 lines)
+
+### Context
+- All premium growth data was from pre-study forecasts, not verified actuals
+- Report now maintains transparent narrative without unsupported quantitative claims
+- Focus shifted to capability building and strategic positioning rather than volume metrics
+
+### Validation
+- ✅ All "660 mkr" and "136%" references removed
+- ✅ Strategic targets (1 miljard goal) preserved as future targets
+- ✅ No invented replacement numbers added
+- ✅ Narrative continuity maintained in affected sections
+
+---
+
+## [6.4] - 2025-12-02
+
+### Changed
+- **Integrated Marcus feedback from "Marcus feedback 25 november.md"**
+- **Replaced "verksamhetsdöd" → "avveckling av verksamheten"** (4 instances)
+  - Line 32: Bakgrund & Syfte - "Alternativet till transformation var tydligt: avveckling av verksamheten"
+  - Line 50: Startläge 2022 intro - "Affärsrisken blev akut – systemkollaps kunde kosta 100+ mkr och innebära avveckling av verksamheten"
+  - Line 141: Dimension 4 (Risk) - "Affärsrisken: Systemkollaps kunde kosta 100+ mkr och innebära avveckling av verksamheten"
+  - Line 194: Transformationsbeslut - "'göra ingenting' innebar avveckling av verksamheten"
+
+### Fixed
+- **VB.NET developer story corrected** (Dimension 3: Processer)
+  - Old: "insåg: nej, det är inte VB.NET"
+  - New: "insåg att det VAR VB.NET – ett legacy-språk som han inte ville vidareutvecklas inom"
+  - Clarifies developer quit BECAUSE it was legacy tech, not because it wasn't VB.NET
+
+### Flagged for Future Action
+- **Målområde 1 (Säkra):** Added qualifier noting internal vs external communication gap
+- **Målområde 2 (Kundupplevelse):** Added "I vår egen bedömning" to clarify self-assessment vs customer feedback
+- **Premier table:** Marked as incorrect per Marcus, addressed in v6.5
+
+### Sources
+- feedback/cordial/Marcus feedback 25 november.md
+- work/main_report_v6.3.md (source)
+
+### Validation
+- ✅ All 4 instances of "verksamhetsdöd" replaced
+- ✅ VB.NET narrative corrected for clarity
+- ✅ Marcus's critical feedback items addressed
+- ✅ No structural changes - only language precision improvements
+
+---
+
+## [6.3] - 2025-11-27
+
+### Added
+- **Integrated Jörgen feedback from "Jörgen feedback (26 november).md"**
+- Enhanced leadership quotes throughout report with more balanced representation
+
+### Context
+- Version created during feedback integration cycle
+- Archived to history/versions/main_report_v6.3.md
+
+---
+
+## [6.2] - 2025-11-26
+
+### Changed
+- **Balanced citation distribution across leadership team**
+- Ensured multiple voices represented throughout narrative
+
+### Context
+- Previous git commit message: "v6.2: Balanserad citatfördelning över ledningsgruppen"
+- Archived to history/versions/main_report_v6.2.md
+
+---
+
 ## [0.7.0] - 2025-11-19
 
 ### Changed
@@ -290,6 +379,10 @@ Main report ~60% complete. Initial structure established from previous work in C
 
 | Version | Date | Status | Key Changes |
 |---------|------|--------|-------------|
+| 6.5 | 2025-12-02 | WIP | Removed all unverified premium growth data |
+| 6.4 | 2025-12-02 | WIP | Marcus feedback: "verksamhetsdöd"→"avveckling", VB.NET fix |
+| 6.3 | 2025-11-27 | WIP | Jörgen feedback integration, balanced quotes |
+| 6.2 | 2025-11-26 | WIP | Balanced citation distribution across leadership |
 | 0.7.0 | 2025-11-19 | WIP | Complete workflow-oriented folder restructure |
 | 0.6.4 | 2025-11-19 | WIP | Professional markdown formatting (headings + blockquotes) |
 | 0.6.3 | 2025-11-19 | WIP | Fixed vi-perspective rewrite with correct source |
