@@ -16,6 +16,58 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [6.6] - 2025-12-02
+
+### Added
+- **Risk documentation from transformation workshop**
+  - Created `sources/data/risk_workshop_sammanfattning.md` - comprehensive summary of all 16 transformation risks with detailed assessments
+  - Top 3 prioritized risks documented (Risk 4: Lumera functionality gaps, Risk 6: Business requirements priority, Risk 16: Budget control)
+  - Transparent budget review included (76.25 mkr vs 78 mkr budget, 2.25% favorable variance)
+- **New risk chapter for report**
+  - Created `work/risk_kapitel_rapport.md` - condensed risk chapter (~1300 words) focusing on effect realization perspective
+  - Structured narrative around "De tre största riskerna – mitigerade men kräver fortsatt bevakning"
+  - Improved headings and transitions for better narrative flow
+
+### Changed
+- **Integrated Kenneth Norling perspective in main report** (`work/main_report_v6.5.md`)
+  - Added portfolio management context to Målområde 6 (Lönsamhet): 70% unlisted securities, triple squeeze challenges, importance of return explanation
+  - Added fund offering context to Målområde 3 (Erbjudande): quality-assured breadth, customer understanding perspective
+  - Added external validation quote in Nuläge introduction: "Transformationen i stort är imponerande"
+  - 88 lines changed (66 insertions, 22 deletions)
+- **Standardized all quote attributions throughout main report**
+  - Annelie Helsing → "Annelie Helsing, VD"
+  - Jonas Hällgren → "Jonas Hällgren, IT-chef"
+  - Lars Carlsson → "Lars Carlsson, CFO"
+  - Kenneth Norling → "Kenneth Norling, Kapitalförvaltningschef"
+  - Åsa Sjölander → "Åsa Sjölander, Chef Kunderbjudande & Support"
+  - Maja Carlzon → "Maja Carlzon, Chef HR & Verksamhetsutveckling"
+  - "Workshop" → "Måluppfyllelse workshop"
+  - Ensures consistent professional citation format across entire report
+- **Improved risk chapter narrative structure**
+  - Enhanced section headings for better flow
+  - Clarified main message about mitigated risks requiring continued monitoring
+  - Structured Risk 1, 2, 3 as complete stories with setup, challenge, and current status
+
+### Context
+- Kenneth Norling integration adds critical capital management perspective missing from previous versions
+- Portfolio context (70% unlisted, triple squeeze) essential for understanding financial goal challenges
+- Consistent quote attribution improves professionalism and traceability
+- Risk documentation provides transparent view of transformation challenges and budget management
+
+### Sources
+- Risk workshop PPTX transcript (offline source)
+- Kenneth Norling interview transcript
+- work/main_report_v6.5.md (primary work file)
+
+### Validation
+- ✅ All quotes in main report now have consistent role attribution
+- ✅ Kenneth's portfolio perspective integrated in relevant sections
+- ✅ Risk documentation comprehensive and transparent
+- ✅ No invented data - all information sourced from interviews and workshop materials
+- ✅ Risk chapter maintains effect realization focus appropriate for executive report
+
+---
+
 ## [6.5] - 2025-12-02
 
 ### Removed

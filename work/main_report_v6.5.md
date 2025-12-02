@@ -45,7 +45,7 @@ Men det började inte med krisen – det började med strategin:
 
 > "Det började med att vi satt en ny strategi. Vi ombildades till tjänstepensionsförening... Och sen när vi började förstå vårt företag så såg vi att vi har en massa risker."
 >
-> — Annelie Helsing
+> — Annelie Helsing, VD
 
 **Verksamhetens utmaning:** Vi hade satt en ambitiös tillväxtstrategi (280→1000 mkr årliga premier) och ombildats till öppen tjänstepensionsförening. Men när vi började analysera vår förmåga att leverera på strategin upptäckte vi att Individual-systemet, processer och datakvalitet inte kunde bära den tillväxten. Förmedlarsamarbeten var tekniskt omöjliga. Affärsrisken blev akut – systemkollaps kunde kosta 100+ mkr och innebära avveckling av verksamheten.
 
@@ -60,7 +60,7 @@ Slutsatsen var glasklar:
 
 > "Transformationen var do or die."
 >
-> — Annelie Helsing
+> — Annelie Helsing, VD
 
 ---
 
@@ -152,7 +152,7 @@ Individual 2022 krävde omfattande manuell hantering som **drev kostnader och bl
 
 > "De som hade VB.NET-kunskap började närma sig pensionen."
 >
-> — Jonas Hällgren
+> — Jonas Hällgren, IT-chef
 
 **Do-nothing-scenario:** Att inte transformera innebar gradvis kompetensförlust, växande incidentnivå och slutlig systemkollaps. Kostnad: 100+ mkr i förluster och avveckling av verksamheten.
 
@@ -207,9 +207,15 @@ Tre år senare, hösten 2025, har bilden för oss förändrats fundamentalt. **L
 
 > "Det är mycket bättre. Mycket, mycket bättre om man säger utifrån att jag släcker inte bränder hela tiden. Det var de två, tre första åren så var det varje dag."
 >
-> — Annelie Helsing
+> — Annelie Helsing, VD
 
-I oktober 2025 genomförde vår ledningsgrupp en måluppfyllelse workshop där vi bedömde framstegen över **sex målområden** baserat på 18 delmål. Detta är inte en konsultrapport – det är vår ledningsgrupps egen, ärliga bedömning av var vi står.
+Kenneth Norling, som kommit in mot slutet av transformationen, beskriver resan utifrån:
+
+> "Transformationen i stort är imponerande. Vi har gått från ingenting till allt på kort tid. Det har funnits cowboyhattar ibland, men man ska ha respekt för resan organisationen gjort. Det är otroligt mycket kraft i gänget som är kvar."
+>
+> — Kenneth Norling, Kapitalförvaltningschef
+
+I oktober 2025 genomförde ledningsgruppen en måluppfyllelse workshop där vi bedömde framstegen över **sex målområden** baserat på 18 delmål. Detta är inte en konsultrapport – det är vår ledningsgrupps egen, ärliga bedömning av var vi står.
 
 **Genomsnittlig måluppfyllnad:** 3,4 av 5
 
@@ -241,7 +247,7 @@ Detta är historien om en transformation där förutsättningarna skapats – me
 
 > "Säkra-upphandlingen tvingade fram detta arbete. Tydligt sätt att samlas runt våra USP:ar, börja definiera och formulera kring SH-pensionsvärde. Storyn om SH börjar ta form men kräver konsekvent kommunikation."
 >
-> — Åsa Sjölander
+> — Åsa Sjölander, Chef Kunderbjudande & Support
 
 **Vi är tekniskt redo:**
 
@@ -293,7 +299,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Vi har skapat förutsättningarna, vi har skapat plattformen och distributionskanalen. Men det är något som fattas som gör att de inte riktigt klickar igång."
 >
-> — Åsa Sjölander
+> — Åsa Sjölander, Chef Kunderbjudande & Support
 
 **Varför tar det längre tid?**
 
@@ -305,7 +311,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Vi kan ta och omborda nya förmedlare. Bring it on, vi kan ta vem som helst. Vi har IT-infrastrukturen på plats. Dialogerna är positiva, men affärerna har inte trillat in i tillräcklig omfattning ännu."
 >
-> — Annelie Helsing
+> — Annelie Helsing, VD
 
 ### Vad som återstår
 
@@ -342,7 +348,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Vi har marknadens bästa trad. Medvetna strategiska val positionerar produkten starkt. [Men vad som återstår:] Förbättra story, positionering och kommunikation. Marknaden måste förstå att detta är den bästa produkten."
 >
-> — Workshop
+> — Måluppfyllelse workshop
 
 ### Paketering – från bespoke till strukturerad (4,9 av 5)
 
@@ -365,6 +371,8 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 > "Fondutbudet. Där har vi gjort stora förbättringar. Vi breddar med fyra nya fonder nu. Kvalitetssäkrat men bredare – det har saknats."
 >
 > — Kenneth Norling, Kapitalförvaltningschef
+
+Kenneth förklarar varför fondbredden har saknats: "Kundkontakt säger att de haft svårt att förstå utbudet tidigare." De fyra nya fonderna är kvalitetssäkrade men ger kunderna och förmedlarna den bredd som efterfrågats – utan att tumma på kvalitetskraven.
 
 ### Vad som återstår
 
@@ -399,7 +407,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Vi är nöjda med vad vi fått – fick till och med mer än beställt (t.ex. handläggargränssnittet)."
 >
-> — Workshop
+> — Måluppfyllelse workshop
 
 ### Integration som strategisk fördel
 
@@ -411,7 +419,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Integrationsplattform och processkartläggning är på plats. Vi lägger mindre tid på problem och förvaltning – vi har sett tendensen och gjort en förflyttning, men den stora effekten uppstår när vi avvecklar Individual. CFO-office har utvecklats och effektiviserats på flera områden (resurser, kvalitet)."
 >
-> — Workshop
+> — Måluppfyllelse workshop
 
 **CFO Lars beskriver förändringen:**
 
@@ -438,7 +446,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Kunden ska kunna köpa utan rådgivning – hela branschen jobbar på detta, vi trodde initialt att det skulle gå snabbare."
 >
-> — Workshop
+> — Måluppfyllelse workshop
 
 ### Vad som återstår
 
@@ -468,7 +476,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Vårt arbetssätt och prioriteringar stödjer målet väl. Det finns ett bra och tydligt budskap. Målstyrning fungerar - återkommande uppföljning mot strategiska mål och milstolpar. Vårt agila arbetssätt stödjer teamarbete med höga betyg på förankring."
 >
-> — Workshop
+> — Måluppfyllelse workshop
 
 **Flexibel sourcing – full måluppfyllelse (5 av 5):**
 
@@ -482,13 +490,13 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 > "Vår sourcingstrategi har fungerat bra. Vi kan ta in konsulter inom IT, aktuarie, juridik. Men rådgivare går inte att ta in på konsultbasis – de måste ha licenser. Rådgivare kan vi inte ta in på resursbasis."
 >
-> — Maja Carlzon
+> — Maja Carlzon, Chef HR & Verksamhetsutveckling
 
 **Ansträngningen har varit enorm:**
 
 > "Under de här tre åren har vi pratat med varenda rådgivare. Det är inte så att de inte kommer till oss för att vi inte är attraktiva."
 >
-> — Maja Carlzon
+> — Maja Carlzon, Chef HR & Verksamhetsutveckling
 
 ### eNPS – långt från mål
 
@@ -525,7 +533,7 @@ Säkra-upphandlingen gav oss klarhet internt om våra USP:ar och story. Men vi h
 
 _Inga strategiska affärskrav (SAK) är direkt kopplade till Målområde 6. Lönsamhetsmålet är beroende av att alla andra målområden lyckas._
 
-**Målen tar längre tid att uppnå**
+**Målen tar längre tid att uppnå – och portföljsituationen förstärker trycket**
 
 ### Delmål och status
 
@@ -535,27 +543,63 @@ _Inga strategiska affärskrav (SAK) är direkt kopplade till Målområde 6. Lön
 | **Vi har mer inkommande premieinbetalningar än vad vi betalar ut**                                                                                 | 1,1       | Ej uppnått, kräver tillväxt |
 | **Förvaltat kapital har vuxit till 8 miljarder kronor och fondgren går mot positivt resultat. Förvaltningskostnadsprocenten pekar återigen nedåt** | 1,1       | Ej uppnått                  |
 
-### Strategin är bekräftad
+### Portföljsituationen: Strukturell ombalansering pågår
 
-> "Ej uppnått. Kräver tillväxt. Strategin är bekräftad – vår inslagna väg håller. Externt stöd Arkwright med utifrån-och-in-perspektiv bekräftar den inslagna vägen. Marknaden finns kvar, det tar bara lite längre tid."
->
-> — Workshop
+Parallellt med transformationen har SH Pension genomgått en omfattande portföljomstrukturering. Under 2020-2021 fattades beslut om att investera i alternativa tillgångar (private equity, private debt, infrastruktur) – en strategiskt rätt långsiktig positionering. Men implementeringen gick snabbare än beräknat, samtidigt som tillväxten i förvaltat kapital (AUM) inte nådde prognostiserade nivåer.
 
-### Tillväxt är allt
+**Konsekvensen:** Idag ligger cirka 70% av portföljen i onoterade (illikvida) tillgångar – vilket strider mot regelverket som kräver att minst 50% måste vara likvida tillgångar. En åtgärdsplan har presenterats för Finansinspektionen och omfattande fastighetsförsäljningar pågår för att återställa balansen.
 
-> "Det är därför alla i styrelsen är så fokuserade på tillväxt. Utan tillväxt spelar nästan inget annat någon roll."
+Kenneth Norling beskriver situationen:
+
+> "Vi ligger kanske på 70% onoterat. Det får man inte ha. Det är en kombination av alternativa och att vi inte kunnat kliva ur fastigheter tillräckligt snabbt."
 >
 > — Kenneth Norling, Kapitalförvaltningschef
 
+### Trippelsqueeze: Tre samtidiga utmaningar
+
+Portföljomstruktureringen skapar ett tredelat tryck på organisationen:
+
+1. **Negativt kassaflöde** – utbetalningar överstiger inflöde av premier
+2. **Alternativa program kallar på kapital** – redan gjorda åtaganden som måste fullföljas
+3. **Avkastning under marknad** – fastighetsförsäljningarna ger engångsnedgångar
+
+
+**Konkret exempel:** I år har marknaden gått starkt (+5-6% för jämförbara aktörer som Folksam), men SH Pension visar -1% i avkastning. Detta förklaras av fastighetsförsäljningarna som slår mot resultatet.
+
+Kenneth förklarar:
+
+> "Fastighetsförsäljningarna är en engångsomstrukturering – som ett varsel i Ericsson. Man tar kostnaden nu för att skapa bättre förutsättningar framåt."
+>
+> — Kenneth Norling, Kapitalförvaltningschef
+
+**Viktig nyans:** Tittar man isolerat på den likvida delen av portföljen ligger avkastningen i linje med marknaden (+5-6%). Det är fastighetsförsäljningarna som drar ner helheten – en engångseffekt som är nödvändig för att skapa långsiktig balans.
+
+### Strategin är bekräftad
+
+> "Strategin är bekräftad – vår inslagna väg håller. Externt stöd Arkwright med utifrån-och-in-perspektiv bekräftar den inslagna vägen. Marknaden finns kvar, det tar bara lite längre tid."
+>
+> — Måluppfyllelse workshop
+
+### Tillväxt är allt
+
+Detta förklarar varför tillväxt inte bara är en affärsstrategi – det är en strukturell nödvändighet för att lösa portföljsituationen:
+
+> "Utan tillväxt spelar nästan inget annat någon roll. För att lösa det här krävs tillväxt. Annars fortsätter den alternativa delen att äta upp portföljen procentuellt."
+>
+> — Kenneth Norling, Kapitalförvaltningschef
+
+När premieinflödet och förvaltat kapital växer, sjunker andelen alternativa tillgångar automatiskt – och balansen återställs utan att förstöra kapital genom snabbförsäljningar.
+
 ### Vad som krävs för att nå målet
 
-- **Fler förmedlare och samarbetspartners**
+- **Fler förmedlare och samarbetspartners** – öka premieinflödet
 - **Nya affärsmöjligheter** enligt ny strategi
 - **Högre intäkter** genom premievolym
 - **Minska utflytt** av kapital
 - **Öka inflöde** – pengar ska också flyttas in
 - **Slutföra migrering** till Lumera
-- **Tålamod** – relation tar tid att konvertera till flöden
+- **Fortsatt portföljombalansering** – fastighetsförsäljningar enligt plan
+- **Tålamod** – relation tar tid att konvertera till flöden, portföljen tar tid att balansera
 
 ---
 
@@ -657,7 +701,7 @@ Medan målområdena visar den strategiska nivån, ger de 51 strategiska affärsk
 
 > "Den stora effekten uppstår när vi avvecklar Individual."
 >
-> — Workshop
+> — Måluppfyllelse workshop
 
 **Övriga prioriteringar:**
 
