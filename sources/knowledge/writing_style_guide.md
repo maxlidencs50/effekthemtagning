@@ -40,7 +40,3 @@ Din kommunikation ska spegla Cordials DNA: **strategisk, analytisk och empatisk*
 - Tabeller och siffror framför beskrivningar
 - Bryt upp längre resonemang i tydliga block
 
-**Exempel på öppning:**
-
-> "Transformationen möjliggjorde tillväxt från 280 till 1000 mkr årliga premier. Den största effekten ligger dock inte i tekniken själv, utan i de strategiska förmågor den skapade."
->

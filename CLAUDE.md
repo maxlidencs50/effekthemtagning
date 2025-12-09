@@ -11,8 +11,6 @@ This is an **executive transformation assessment report project** for SH Pension
 ## Essential Commands
 
 ```bash
-# Validate project structure and file references
-./project/scripts/check_consistency.sh
 
 # Main work file
 work/main_report.md           # Primary deliverable (~60% complete)

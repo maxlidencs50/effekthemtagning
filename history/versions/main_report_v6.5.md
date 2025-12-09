@@ -58,7 +58,7 @@ Förstudien identifierade **fyra kritiska dimensioner** som utgjorde grunden fö
 
 Slutsatsen var glasklar:
 
-> "Transformationen var do or die."
+> "Transformationen var do or die"
 >
 > — Annelie Helsing, VD
 
@@ -726,4 +726,354 @@ Individual-avveckling 2026 blir vändpunkten där teknisk förmåga omvandlas ti
 
 ---
 
-# 5. Målläge 2026
+# 5. MÅLLÄGE 2026
+
+**Vändpunkten där teknisk förmåga blir full affärseffekt**
+
+December 2026 är inte bara slutpunkten för en treårig IT-migration. Det är vändpunkten där vi slutligen kan frigöra den fulla potentialen i transformationen – när Individual-systemet stängs och SH Pension kan operera helt på Lumera utan dubbla system.
+
+> "Den stora effekten uppstår när vi avvecklar Individual."
+>
+> — Måluppfyllelse workshop, oktober 2025
+
+Detta är inte en ny insikt. Det har varit kärnan i transformationsplanen sedan början. Men först nu, när vi närmar oss den faktiska avvecklingen, blir det tydligt vad det konkret innebär för varje del av verksamheten.
+
+---
+
+## Individual-avveckling: Vändpunkten för full effekt
+
+### Vad händer när Individual stängs?
+
+**Kapacitet frigörs från drift till utveckling:**
+
+I nuläget 2025 driver vi två parallella system. IT-organisationen lägger fortfarande tid på Individual-förvaltning, vi kontrollerar datakonsistens mellan systemen, och vi kan inte fullt ut utnyttja Lumeras kapabiliteter eftersom vi måste hantera gränssnittet mot Individual.
+
+När Individual stängs 2026 frigörs denna kapacitet:
+
+- IT-organisation kan fokusera 100% på utveckling av nya funktioner i Lumera
+- Inga dubbla årsskiften att hantera (senaste med Individual våren 2026)
+- Ingen tid läggs på att "hålla ihop" två systemvärld
+
+> "Vi har sett tendensen och gjort en förflyttning, men den stora effekten uppstår när vi avvecklar Individual. CFO-office har utvecklats och effektiviserats på flera områden (resurser, kvalitet)."
+>
+> — Lars Carlsson, CFO
+
+**Full automatisering möjliggörs:**
+
+Individual-systemets manuella moment tvingar oss att behålla kontrollsteg som egentligen inte behövs i Lumera. När Individual är borta kan vi:
+
+- Automatisera processer fullt ut utan att oroa oss för inkonsekventa data
+- Frigöra handläggartid från kontroll till kundservice
+- Minska personberoende ytterligare
+
+**Skalbarhet utan begränsningar:**
+
+Så länge Individual finns kvar finns en inbyggd flaskhals. När den är borta kan vi:
+
+- Omborda förmedlare snabbare utan att oroa oss för legacy-begränsningar
+- Växa volymer utan ökande driftsrisk
+- Lansera nya produktpaket utan tre månaders VB.NET-kodning
+
+> "Nu kan vi ta och omborda nya förmedlare. Bring it on, vi kan ta vem som helst. Vi har IT-infrastrukturen på plats."
+>
+> — Annelie Helsing, VD
+
+**Psykologisk frigörelse:**
+
+Det är inte bara tekniskt. När Individual-systemet stängs kan organisationen mentalt lämna det föråldrade bakom sig:
+
+- Inget legacy-arv att oroa sig för
+- Inga "trasiga försäkringar" som växer i listan
+- Full framåtblick istället för bakåtkompatibilitet
+
+> "Lite som att nu har vi inget legacy. Inte någon IT-skuld eller någonting. Utan det är nu och framåt."
+>
+> — Annelie Helsing, VD
+
+---
+
+## Målområdena i målläge 2026
+
+### Marknad (M): Storyn klickar – från 3,2 till 4,5
+
+**Vad som är på plats december 2026:**
+
+Den tekniska grunden är redan lagd hösten 2025. Men marknadsarbetet kräver tid – story, kommunikation och varumärkesarbete mognar gradvis under 2026:
+
+- **Säkra-upphandlingen** som genombrott våren 2025 får genomslag i marknaden – SH Pension blir ett namn förmedlare faktiskt känner till
+- **USP:arna** (tjänstepensionsförening, personligt möte, konkurrenskraftig TRAD) är formulerade och kommunicerade konsekvent
+- **Söderberg & Partners** ser SH Pension som ett reellt alternativ – inte bara "utmanare" utan faktisk konkurrent
+- **PR-arbete** med kända branschpersoner ger synlighet
+- **Novus-undersökningar** visar fortsatt positiv utveckling i varumärkeskännedom
+
+**Vad som återstår:**
+
+Att nå 5 av 5 – "välrenommerat varumärke inom vår målgrupp och självklar aktör i branschjämförelser" – kräver fler år av konsekvent kommunikation och fortsatt tillväxt. Men 2026 är året då storyn går från intern klarhet till extern igenkännlighet.
+
+**Kritisk framgångsfaktor:** Tålamod, repetition och consistency. Varumärke byggs inte på ett år.
+
+---
+
+### Kund & Kanal (K): Affärerna aktiveras – från 3,2 till 4,0
+
+**Vad som är på plats december 2026:**
+
+Den tekniska plattformen (4,8 av 5 redan hösten 2025) får äntligen sina affärsflöden aktiverade:
+
+- **Förmedlarrelationer** konverteras från dialog till faktiska affärsflöden
+  - Säkra aktiverad våren 2025
+  - Tydliga på väg in (planerat 2026)
+  - Söderberg & Partners i pipeline
+- **Säljorganisation** förstärkt med strategiska rekryteringar
+  - Kritisk massa uppnådd för att hantera fler förmedlarsamarbeten samtidigt
+  - Mindre personberoende i kundmöten
+- **Företagsportalen** live och i drift
+  - Kompletterar befintlig förmedlarwebb och kundservice
+  - Självservice för företagare minskar administrativ börda
+
+**Varför tar det längre tid än förväntat?**
+
+Som dokumenterat i Nuläge 2025 beror förseningar på tre faktorer:
+
+1. **Extern omvärld:** Lågkonjunktur, Covid, krig – både SH Pension och partners påverkades
+2. **Intern kapacitet:** Säljorganisation inte tillräckligt robust initialt
+3. **Aktivering tar tid:** Förmedlarna har haft interna utmaningar, relationerna finns men inte aktiverade i affärsflöden
+
+2026 är året då dessa faktorer börjar vända:
+
+> "Vi har skapat förutsättningarna, vi har skapat plattformen och distributionskanalen. Men det är något som fattas som gör att de inte riktigt klickar igång."
+>
+> — Åsa Sjölander, Chef Kunderbjudande & Support (oktober 2025)
+
+2026 är året då de klickar igång.
+
+**Kritisk framgångsfaktor:** Uthållighet i relationsbyggande och selektivitet – välja förmedlare med samma värderingar som SH Pension.
+
+---
+
+### Erbjudande, produkt och tjänst (E): Produkten säljs i volym – från 4,2 till 4,8
+
+**Vad som är på plats december 2026:**
+
+Produkten är redan stark hösten 2025 (4,2 av 5) – men marknaden vet det inte. Under 2026 flyttar vi från "produkt finns" till "produkt säljs i volym":
+
+- **TRAD-produkten** kommuniceras aktivt och positioneras som marknadens bästa
+  - Story och kommunikation förbättrad (från svaghet till styrka)
+  - Förmedlarna förstår varför SH Pensions TRAD är bättre än konkurrenterna
+  - Övervägande Del (ÖD) åtgärdad och transparentad – inget konkurrensnackdel
+- **Paketerings förmåga** används aktivt för nya samarbeten
+  - Alla produkter inom koncessionen – SH kan paketera fritt
+  - Från "fri flexibilitet" (Individual) till "strukturerad paketering med kontrollerade risker" (Lumera)
+- **Riskförsäkring** state of the art med Bliwa
+  - Skalbar förvaltning som hänger med på tillväxten
+- **Fondutbud** breddat kvalitetssäkrat
+  - Fyra nya fonder lanserade hösten 2025 ger den bredd som kund och förmedlare efterfrågat
+  - Fortfarande medvetet nedprioriterat jämfört med TRAD, men tillräckligt för marknadsposition
+
+> "Vi har marknadens bästa trad. Medvetna strategiska val positionerar produkten starkt. [Men vad som återstår:] Förbättra story, positionering och kommunikation. Marknaden måste förstå att detta är den bästa produkten."
+>
+> — Måluppfyllelse workshop
+
+2026 är året då marknaden förstår det.
+
+**Kritisk framgångsfaktor:** Faktiskt sälja produkterna i större volymer. Produktkvalitet räcker inte – distributionskraft avgör.
+
+---
+
+### Processer och System (P): Full effekt realiseras – från 4,2 till 5,0
+
+**Vad som är på plats december 2026:**
+
+Detta är området där 2026 innebär full måluppfyllelse (5 av 5):
+
+- **Individual avvecklat** – det kritiska framgångsmåttet
+  - Inga dubbla system
+  - Ingen tid läggs på legacy-förvaltning
+  - Full fokus på utveckling och värdeskapande
+- **Integrationsplattform** bevisad i drift
+  - Min Pension 2.0 uppgraderad och integrerad
+  - SSEK-flöden i produktion
+  - Kundmaster utanför Lumera ger CRM-flexibilitet
+  - Time-to-market för förmedlarsamarbeten: veckor istället för år
+- **Automatisering fullt ut**
+  - Högre automatiseringsgrad i alla kritiska processer
+  - Fondhandel och monitorering får fortsatt bra betyg
+  - "Vi automatiserar i vardagligt arbete kontinuerligt"
+- **30/70-kvoten** närmare målet
+  - 30% drift/underhåll, 70% värdeskapande
+  - Förflyttning synlig redan 2025, men full effekt först när Individual är borta
+
+> "Det är natt och dag i min grupp. Nu kan vi utveckla våra processer. Vi kan ha åsikter om huruvida vi lever upp till regelverk eller inte och känna att vi är compliant. Innan var det bara 'vi gör så här av någon anledning men vi kan inte riktigt peka på varför'."
+>
+> — Lars Carlsson, CFO
+
+**Vad som återstår efter 2026:**
+
+- **CRM och Marketing automation** – planerat men ej fullt implementerat under transformationsperioden
+- **Företagsportalen** kontinuerligt vidareutvecklas
+- **Mina sidor** förfinas
+- **Digital självbetjäning** – branschutmaning som tar fler år
+
+**Kritisk framgångsfaktor:** Migrering i mål. Flytta sista bestånden, undvika dubbla årsskiften, och kunna stänga ner Individual.
+
+---
+
+### Organisation (O): Kritisk massa uppnådd – från 3,9 till 4,5
+
+**Vad som är på plats december 2026:**
+
+Organisationen har professionaliserats fundamentalt under transformationen:
+
+- **Målstyrning och teamarbete** fortsatt stark (4,8 av 5 redan hösten 2025)
+  - Agilt arbetssätt och ceremonier etablerade
+  - Samstyrning över avdelningsgränser fungerar
+  - Milstolpar och prioriteringar transparenta
+- **Flexibel sourcing** full måluppfyllelse (5 av 5)
+  - Kontinuerlig utvärdering internt vs externt
+  - IT-arkitektur möjliggör flexibilitet
+  - Framgångsrik växling mellan konsulter och anställda
+- **Strategiska rekryteringar** har gjort organisationen robust
+  - Från 30→50+ personer under transformationsperioden [MÅSTE VERIFIERAS]
+  - Kritisk massa inom IT, juridik, compliance, kapitalförvaltning
+  - Mindre personberoende än 2022
+- **eNPS** förbättrad men fortfarande gap
+  - Från +19 (hösten 2025) till riktat +30-35 (realistiskt 2026)
+  - Målet +50 kräver fler år av fortsatt kultur- och organisationsutveckling
+
+**Utmaningen som kvarstår:**
+
+Rådgivarrekrytering är fortsatt strukturellt svår – rådgivare går inte att ta in på konsultbasis eftersom de måste ha licenser:
+
+> "Under de här tre åren har vi pratat med varenda rådgivare. Det är inte så att de inte kommer till oss för att vi inte är attraktiva."
+>
+> — Maja Carlzon, Chef HR & Verksamhetsutveckling
+
+Men 2026 är året då kritisk massa är uppnådd inom övriga områden – organisationen är redo att växa.
+
+**Kritisk framgångsfaktor:** Definiera vad +50 betyder konkret. Fokusera på energi, stolthet, engagemang – det underlättar rekrytering och minskar personberoende.
+
+---
+
+### Lönsamhet (F): Tillväxtens förutsättningar på plats – från 1,1 till 2,5
+
+**Vad som är på plats december 2026:**
+
+Lönsamhetsmålen (1 miljard i årliga premier, 8 miljarder i förvaltat kapital, positivt kassaflöde) kommer inte att vara fullt uppnådda december 2026. Men förutsättningarna för att nå dem är på plats:
+
+- **Individual avvecklat** – ingen tid läggs på drift av dubbla system
+- **Förmedlarsamarbeten aktiverade** – premier börjar flöda in i större volymer
+- **Produktportföljen** konkurrenskraftig och kommunicerad
+- **Portföljombalansering** pågår enligt plan
+  - Fastighetsförsäljningar genomförda
+  - Balans mellan likvida och illikvida tillgångar närmare regelverkets krav
+  - Alternativa åtaganden (private equity, private debt, infrastruktur) fullföljs kontrollerat
+
+**Varför är lönsamhetsmålen inte fullt uppnådda 2026?**
+
+Som dokumenterat i Nuläge 2025 tar affärerna längre tid än förväntat. Strategin är bekräftad, vägen är klar, men volumerna kräver ytterligare 1-2 år att bygga upp:
+
+> "Strategin är bekräftad – vår inslagna väg håller. Externt stöd Arkwright med utifrån-och-in-perspektiv bekräftar den inslagna vägen. Marknaden finns kvar, det tar bara lite längre tid."
+>
+> — Måluppfyllelse workshop
+
+> "Vi måste se positiva nyheter i vår tillväxtstrategi. Vi måste få tydliga signaler om att tillväxt och scaling faktiskt fungerar."
+>
+> — Lars Carlsson, CFO
+
+2026 är året då dessa signaler börjar synas – men full effekt kommer 2027-2028.
+
+**Portföljsituationens strukturella krav:**
+
+Tillväxt är inte bara en affärsstrategi – det är en strukturell nödvändighet för att lösa portföljsituationen:
+
+> "Utan tillväxt spelar nästan inget annat någon roll. För att lösa det här krävs tillväxt. Annars fortsätter den alternativa delen att äta upp portföljen procentuellt."
+>
+> — Kenneth Norling, Kapitalförvaltningschef
+
+När premieinflödet och förvaltat kapital växer sjunker andelen alternativa tillgångar automatiskt – och balansen återställs utan att förstöra kapital genom snabbförsäljningar.
+
+**Kritisk framgångsfaktor:** Tålamod och uthållighet. Relation tar tid att konvertera till flöden, portföljen tar tid att balansera. Men grunden är lagd.
+
+---
+
+## Vad som återstår efter 2026
+
+**Transparent om längre tidshorisont:**
+
+Transformationen 2023-2026 skapar förutsättningar för tillväxt – men vissa mål kräver längre tidshorisont:
+
+### Marknad & Kommunikation (2-3 år)
+
+- **Varumärkeskännedom** i målgruppen tar tid att bygga
+- **Branschjämförelser** rankar bara de 10 största – SH Pension måste växa ytterligare för att synas där
+- **PR-arbete och consistency** kräver fler år av uthållighet
+
+### Försäljning & Affärsaktivering (1-2 år)
+
+- **Förmedlarsamarbeten** aktiveras gradvis – tekniken finns, men volymerna tar tid att bygga upp
+- **Säljorganisation** fortsätter stärkas med strategiska rekryteringar (särskilt rådgivare)
+- **Marknadsposition** etableras genom faktiska volymer, inte bara teknisk förmåga
+
+### Portföljombalansering (2-3 år)
+
+- **Fastighetsförsäljningar** fortsätter enligt plan
+- **Alternativa åtaganden** fullföljs kontrollerat
+- **Premieinflöde** måste växa för att automatiskt balansera portföljen
+
+### Organisationsutveckling (3-5 år)
+
+- **eNPS från +19 till +50** kräver fortsatt kultur- och engagemangsarbete
+- **Kritisk massa** inom rådgivning fortfarande strukturellt utmanande
+- **Analysförmåga** – identifierat gap som kräver både kompetens och verktyg
+
+### Digital självbetjäning (branschutmaning)
+
+- **Kunden ska kunna köpa utan rådgivning** – hela branschen jobbar på detta
+- SH Pension trodde initialt att det skulle gå snabbare
+- Kräver både teknisk mognad och regulatorisk klarhet
+
+---
+
+## Sammanfattning: Från teknisk grund till affärsmässig effekt
+
+**December 2026 är vändpunkten.**
+
+Tre år av transformation har byggt en modern IT-infrastruktur, professionaliserat organisationen, skapat konkurrenskraftiga produkter och etablerat förmedlarrelationer. Men den fulla effekten har väntat på Individual-avveckling.
+
+### Vad 2026 konkret innebär:
+
+**För IT och processer:**
+- Individual-systemet stängs – inget legacy-arv kvar
+- Full kapacitet frigörs från drift till utveckling
+- Automatisering utan kompromisser
+- 30/70-kvoten (drift/värdeskapande) närmare mål
+
+**För affären:**
+- Förmedlarrelationer konverteras till affärsflöden
+- TRAD-produkten kommuniceras och positioneras kraftfullt
+- Paketerings förmåga används aktivt för nya samarbeten
+- Premievolymerna börjar växa mer påtagligt
+
+**För organisationen:**
+- Kritisk massa uppnådd inom de flesta områden
+- Professionalisering fullbordad
+- Från brandkårsläge till strategisk kapacitet
+- eNPS-förbättring synlig men fortsatt arbete krävs
+
+**För ekonomi och lönsamhet:**
+- Förutsättningar för tillväxt på plats
+- Portföljombalansering pågår enligt plan
+- Vägen mot 1 miljard årliga premier tydlig
+- Full effekt kommer 2027-2028
+
+### Det viktigaste beslutet bekräftas:
+
+> "Lyckas vi, då är det champagne – få har klarat en sådan migration på rimlig tid."
+>
+> — Jonas Hällgren, IT-chef
+
+Transformationen var "do or die" – alternativet var avveckling av verksamheten. December 2026 bekräftar att vi valde tillväxt, genomförde transformationen på tid och budget, och skapade grunden för att nå våra strategiska mål.
+
+Den stora effekten uppstår när vi avvecklar Individual. Den effekten realiseras 2026.
+
+---

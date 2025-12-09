@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e975bb3603a19100",
+            "id": "57270ac2bd02d062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/main_report_v6.2.md",
+                "file": "history/versions/main_report_v6.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main_report_v6.2"
+              "title": "main_report_v6.5"
+            }
+          },
+          {
+            "id": "f664da51b9c051a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/main_report_v7.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main_report_v7.0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 245.5
   },
   "right": {
     "id": "ac00032a9eb950fc",
@@ -183,44 +198,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "e975bb3603a19100",
+  "active": "f664da51b9c051a3",
   "lastOpenFiles": [
+    "work/cordials_externa_perspektiv.md",
+    "work/exekutiv_sammanfattning_draft.md",
+    "work/main_report_v7.0.md",
+    "history/versions/main_report_v6.5.md",
+    "work/main_report_v6.7.md",
+    "work/main_report_v6.6.md",
+    "project/docs/CHANGELOG.md",
+    "feedback/cordial/Sofia feedback (9 dec 2025).md",
+    "history/versions/main_report_v6.4.md",
+    "history/versions/main_report_v6.2.md",
+    "history/versions/main_report_v6.0.md",
+    "feedback/cordial/Jörgen feedback (26 nov).md",
     "sources/interviews/asa_sjolander_(2).md",
-    "work/main_report_v6.2.md",
-    "history/versions/main_report_v6.1.md",
+    "sources/data/risk_workshop_sammanfattning.md",
+    "work/risk_kapitel_rapport.md",
+    "CLAUDE.md",
+    "feedback/cordial/Marcus feedback (25 nov).md",
+    "sources/interviews/lars_carlsson_(1).md",
+    "sources/interviews/annelie_helsing_(1).md",
+    "work/KENNETH_INTEGRATION_SUMMARY.md",
+    "history/versions/main_report_v6.3.md",
+    "work/slide_text_rapportstatus.md",
+    "sources/interviews/kenneth_norling_(1).md",
+    "sources/data/OFFLINERiskhantering - Transformationsrisker.pptx",
+    "sources/data/~$OFFLINERiskhantering - Transformationsrisker.pptx",
+    "project/docs/README.md",
+    "sources/knowledge/cordial_external_perspective.md",
+    "sources/knowledge/knowledge_base.md",
+    "work/main_report_v6.4.md.tmp.58972.1764668508967",
+    "work/main_report_v6.4.md.tmp.58972.1764668496570",
     "work/main_report_v6.2.md.tmp.15055.1764144950634",
     "work/main_report_v6.2.md.tmp.15055.1764144938709",
     "work/main_report_v6.2.md.tmp.15055.1764144931843",
     "work/main_report_v6.2.md.tmp.15055.1764144924851",
     "work/main_report_v6.2.md.tmp.15055.1764144915444",
-    "feedback/cordial/Jörgen och Sofia feedback (26 november).md",
-    "sources/interviews/jonas_hallgren_(1).md",
-    "sources/interviews/kenneth_norling_(1).md",
-    "project/docs/README.md",
-    "CLAUDE.md",
-    "sources/interviews/lars_carlsson_(1).md",
-    "sources/interviews/annelie_helsing_(1).md",
-    "project/docs/CHANGELOG.md",
     "sources/data/Måluppfyllelse.csv",
-    "sources/data/Affärskrav.csv",
     "Untitled.canvas",
-    "work/report_(current).md",
-    "history/versions/main_report_v0.6.0_original.md",
-    "sources/knowledge/cordial_external_perspective.md",
-    "sources/knowledge/knowledge_base.md",
-    "sources/knowledge/quote_suggestions.md",
-    "sources/knowledge/writing_style_guide.md",
-    "sources/knowledge/memory.md",
-    "README.md",
-    "sources/data/Affärskrav och måluppfyllelse.csv",
-    "project/scripts/check_consistency.sh",
-    "src/main_report.md",
-    "sources/interviews/maja_carlzon_(1).md",
-    "sources/interviews/lars_carlsson_(2).md",
-    "project/scripts",
-    "Pasted image 20251119152420.png",
-    "CHANGELOG.md",
-    "report_versions/main_report_original.md",
-    "docs/guides/writing_style_guide.md"
+    "Pasted image 20251119152420.png"
   ]
 }
