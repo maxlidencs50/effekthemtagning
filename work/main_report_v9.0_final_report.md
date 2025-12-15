@@ -44,7 +44,7 @@ Vår transformation handlade därför om två saker: att byta ut **hjärtat och 
 
 ## Vad som gjort skillnad
 
-**Beslutskraft i kritiskt läge:** "Transformationen var do or die" – alternativet var inte status quo utan nedläggning. Risk för systemupphörande hotade verksamhetens överlevnad och skapade klarhet. Beslutssituationen krävde tydliga vägval – det fanns begränsat utrymme för inkrementella lösningar.
+**Beslutskraft i kritiskt läge:** Alternativet var inte status quo utan nedläggning. Risk för systemupphörande hotade verksamhetens överlevnad och skapade klarhet. Beslutssituationen krävde tydliga vägval – det fanns begränsat utrymme för inkrementella lösningar.
 
 **Strategiskt vägval kring integrationsplattform:** Vi valde att äga egna integrationer istället för att låsa oss till en integrationspartner – detta gav time-to-market i veckor istället för år. Ett strategiskt rätt beslut för en organisation med 30-50 personer.
 
@@ -108,7 +108,7 @@ Tre år senare har vi byggt uppdaterad IT-infrastruktur, professionaliserat orga
 
 Baserat på vår dokumentation av transformationen är vår bedömning tydlig: **Vi lyckas.** Vi valde tillväxt över avveckling. Vi genomförde transformationen professionellt. Nu handlar det om att realisera potentialen med samma tålamod och uthållighet som präglat resan hittills.
 
-**Transformationen var do or die. Vi valde tillväxt. 2026 bekräftar att vi skapade grunden för att nå 1000 mkr – och bortom.**
+**Vi valde tillväxt. 2026 bekräftar att vi skapade grunden för att nå våra tillväxtmål – och bortom.**
 
 ---
 
@@ -273,7 +273,7 @@ Tre år senare kan nuläget visa hur långt vi kommit i att bygga bort de risker
 
 Idag har bilden för oss förändrats fundamentalt. Lumera är implementerat. Vi har växt organisationen. Men den fulla effekten väntar fortfarande – beroende på att Individual slutligen kan avvecklas under 2026.
 
-> "Det är mycket bättre. Mycket, mycket bättre om man säger utifrån att jag släcker inte bränder hela tiden. De tre första åren så var det varje dag."
+> "Det är mycket bättre. Mycket, mycket bättre om man säger utifrån att jag släcker inte bränder hela tiden. De tre första åren var det varje dag."
 >
 
 Kapitalförvaltningschefen, som kommit in mot slutet av transformationen, beskriver resan utifrån:
@@ -559,7 +559,7 @@ Enligt kapitalförvaltningschefen har fondbredden saknats: "Kundkontakt säger a
 
 **Vad som behövs:**
 
-> "Definiera vad som ser annorlunda ut när vi är på +50 jämfört med +28. Fokusera på energi, stolthet, engagemang – det underlättar rekrytering. Satsa på robusthet i organisationen"
+> "Definiera vad som ser annorlunda ut när vi är på +50 jämfört med +28. Fokusera på energi, stolthet, engagemang – det underlättar rekrytering. Satsa på robusthet i organisationen – skapar det +50?"
 >
 ### Organisatorisk stabilitet växer (3,9 av 5)
 
@@ -997,7 +997,7 @@ Tre år av transformation har byggt en uppdaterad IT-infrastruktur, professional
 
 ### Det viktigaste beslutet bekräftas:
 
-Transformationen var "do or die" – alternativet var avveckling av verksamheten. 2026 bekräftar att vi valde tillväxt, genomförde transformationen enligt plan, och skapade grunden för att nå våra strategiska mål.
+Alternativet till transformation var avveckling av verksamheten. 2026 bekräftar att vi valde tillväxt, genomförde transformationen enligt plan, och skapade grunden för att nå våra strategiska mål.
 
 Vändpunkten realiseras 2026 när Individual avvecklas och organisationen kan fokusera helt framåt.
 
@@ -1122,7 +1122,20 @@ Strukturell ombalansering pågår, men långsiktig lösning kräver premieinflö
 **7. Fortsätt professionalisera – men behåll smidighet**
 Balans mellan professionalisering och "litenhetens fördelar" (snabbhet, pragmatism, genomförandekraft).
 
-Transformationen var "do or die". Vi valde tillväxt. 2026 bekräftar att vi genomförde den enligt plan, skapade grunden för att nå våra strategiska mål, och byggde en organisation redo att växa – och bortom.
+---
+
+## Blicka framåt: Från grund till genomslag
+
+**2026: Grunden läggs**
+Individual stängs. Lumera driver hela verksamheten. Integrationsplattform bevisad. Förmedlarrelationer aktiveras. Premievolymerna börjar växa mer påtagligt. Organisationen kan fokusera 100% framåt.
+
+**2027-2028: Full affärseffekt**
+När teknisk förmåga och affärsrelationer mognat fullt ut förväntas tillväxtmål och lönsamhetsmål nås.
+
+**Transformationen skapade optioner – nu exekvera på dem:**
+Vi kan ansluta förmedlare utan tre månaders VB.NET-kodning. Vi kan lansera produktpaket på veckor. Vi kan analysera lönsamhet per kund. Vi kan växa utan att riskera systemhaveri. Det alternativet fanns inte 2022.
+
+Vi valde tillväxt. 2026 bekräftar att vi genomförde transformationen enligt plan, skapade grunden för att nå våra strategiska mål, och byggde en organisation redo att växa – och bortom.
 
 Vändpunkten realiseras 2026 när Individual avvecklas och organisationen kan fokusera helt framåt.
 
